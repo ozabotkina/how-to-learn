@@ -1,0 +1,10 @@
+
+
+.table__text {
+    margin-bottom: 20px;
+  }
+  
+  .table__text:last-of-type {
+    margin-bottom: 0;
+  } 
+  
