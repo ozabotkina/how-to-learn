@@ -3,8 +3,6 @@
     background-color: #1f1f1f;
     margin: 0px auto 40px;
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
     justify-content: space-between;
     min-height: 250px;
   }
